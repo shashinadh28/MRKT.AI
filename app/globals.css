@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.newcolor{
+    background-color: #fbf9f5;
+}
+.newcolor2{
+    background-color: #F6E6FF;
+}
+.newcolor3{
+    background-color: #E7F8FF;
+}
+.newcolor4{
+    background-color: #FAEFFD;
+}
+.newcolor5{
+    background-color: #F4F6FA;
+}
+.littlebox{
+    border-radius:40px ;
+}
+.box{
+    border-radius: 50px;
+}
+.bgcolour1{
+
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 40%, rgba(255, 255, 255, 0) 100%);;
+
+}
+
+
+
