@@ -17,8 +17,8 @@ export default function Navbar1() {
   return (
     <div>
       {/* desktop navbar */}
-      <div className=" hidden md:block bg-white m-10">
-        <div className=" flex flex-row justify-between items-center `">
+      <div className=" hidden md:block bg-white p-2">
+        <div className=" flex flex-row px-16 mt-6 justify-between items-center `">
           <div className=" flex flex-row items-center gap-3">
             <Image
               src={"/wlogo.png"}

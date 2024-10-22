@@ -230,7 +230,7 @@ export default function Home() {
             {/* Text */}
             <div className="text-[14px] sm:text-[15px] lg:text-[16px] px-6 sm:px-9 pt-4">
               Effortlessly gather and manage leads with our lead collection
-              tools. From capturing potential customers' information to
+              tools. From capturing potential customers &apos; information to
               nurturing relationships, our platform simplifies the lead
               generation process for maximized conversions.
             </div>
@@ -304,7 +304,7 @@ export default function Home() {
                 We are partners in optimizing advertising campaigns. Our
                 meticulous ad tracking solutions provide real-time insights into
                 ad performance, enabling you to make data-driven decisions and
-                maximize ROI, elevating your brand's impact.
+                maximize ROI, elevating your brand&apos;s impact.
               </div>
 
               {/* Button */}
@@ -367,7 +367,7 @@ export default function Home() {
               <div
                 className={`${WorkSans.className} font-semibold text-white text-3xl lg:text-4xl xl:text-5xl pt-16 text-center`}
               >
-                You don't have to bother bringing in customers
+                You don&apos;t have to bother bringing in customers
               </div>
               <div className="text-white font-extralight text-base lg:text-lg xl:text-xl mt-5 text-center lg:text-left tracking-wider">
                 From multiple payment options to state-of-the-art, trust us to
